@@ -1,0 +1,11 @@
+name: Umbria Region Open Data
+url: https://raw.githubusercontent.com/api-evangelist/dati-regione-umbria-it/refs/heads/main/review.yml
+created: '2026-06-07'
+modified: '2026-06-07'
+reviews:
+  - date: '2026-06-07'
+    rating: 4
+    summary: Live CKAN API verified (v2.9.5), ~457 datasets.
+    endpoints:
+      - url: https://dati.regione.umbria.it/api/3/action/status_show
+        status: 200
